@@ -1,0 +1,30 @@
+#+1566912900
+mkdir labs
+#+1566912907
+ls
+#+1566912916
+cd labs
+#+1566912948
+git clone https://github.com/cbourke/CSCE155-C-Lab01
+#+1566912965
+cd CSCE155-C-Lab01
+#+1566912970
+ls
+#+1566912999
+gcc hello.c
+#+1566913012
+a.out
+#+1566913020
+gcc hello.c
+#+1566913024
+ls
+#+1566913034
+./a.out
+#+1566913085
+open hello.c
+#+1566913234
+pwd
+#+1566913414
+gcc hello.c
+#+1566913424
+./a.out
