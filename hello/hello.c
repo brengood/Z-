@@ -12,5 +12,7 @@ int main(int argc, char **argv) {
 
   printf("Brendon Goodrich & Nate Vazquez\n");
 
+  printf("Computer Engineering & Electrical Engineering")
+
   return 0;
 }
